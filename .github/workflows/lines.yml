@@ -18,3 +18,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_lines: yes
+          plugin_languages_skipped: ZappicBot-Legacy
