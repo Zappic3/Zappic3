@@ -16,6 +16,6 @@ jobs:
         with:
           filename: metrics.plugin.lines.history.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: repositories
           plugin_lines: yes
-          plugin_languages_skipped: ZappicBot-Legacy
+          plugin_lines_skipped: ZappicBot-Legacy
