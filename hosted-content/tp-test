@@ -1,0 +1,32 @@
+{
+    "version": 1,
+    "tps": {
+        "moon": {
+            "name": "Secret Moonbase",
+            "frequency": 2560,
+            "pos": 1
+        },
+        "stage": {
+            "name": "The Stage",
+            "frequency": 2561,
+            "pos": 2,
+            "bg_color": "#3b3b3b",
+        },
+        "end": {
+            "name": "End Outpost",
+            "frequency": 2562,
+            "pos": 2,
+            "bg_color": "#e5fa05",
+            "fg_color": "#000000",
+        },
+          "bros_base": {
+            "name": "Bro's Base",
+            "frequency": 2563,
+            "pos": 2,
+            "border_bg_color": "#5b1487",
+            "border_fg_color": "#d62fcd",
+        }
+    }
+}
+
+
